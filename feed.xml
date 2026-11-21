@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>パーソナル研究ラジオ</title>
+    <link>https://piinatsu123-tech.github.io/aipodcast/</link>
+    <description>アニマルウェルフェアと動物倫理、倫理的消費に関する論文を、AIが日本語で解説する個人用の番組です。</description>
+    <language>ja</language>
+    <atom:link href="https://piinatsu123-tech.github.io/aipodcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>菜月</itunes:author>
+    <itunes:summary>アニマルウェルフェアと動物倫理、倫理的消費に関する論文を、AIが日本語で解説する個人用の番組です。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Science" />
+    <lastBuildDate>Sat, 21 Nov 2026 22:11:14 +0000</lastBuildDate>
+    <item>
+      <title>11月12日：Sustainable consumption: green consumer behaviour when purchasing products</title>
+      <description>深掘り論文：Sustainable consumption: green consumer behaviour when purchasing products
+
+出典一覧：https://piinatsu123-tech.github.io/aipodcast/sources/2026-11-12-2.html</description>
+      <itunes:summary>深掘り論文：Sustainable consumption: green consumer behaviour when purchasing products
+
+出典一覧：https://piinatsu123-tech.github.io/aipodcast/sources/2026-11-12-2.html</itunes:summary>
+      <link>https://piinatsu123-tech.github.io/aipodcast/sources/2026-11-12-2.html</link>
+      <guid isPermaLink="false">ep-2026-11-12-2</guid>
+      <pubDate>Sat, 21 Nov 2026 22:11:14 +0000</pubDate>
+      <enclosure url="https://github.com/piinatsu123-tech/aipodcast/releases/download/ep-2026-11-12-2/ep-2026-11-12-2.mp3" length="16554494" type="audio/mpeg" />
+      <itunes:duration>0:34:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
